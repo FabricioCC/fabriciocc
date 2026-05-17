@@ -1,7 +1,5 @@
 ![banner](./banner.svg)
 
-
-# Carlos Fabrício · Full-Stack Engineer
  
 > Java · Spring Boot · React · NextJS · Distributed Systems · building in public
  
