@@ -51,8 +51,8 @@ Production-ready authentication API — JWT with refresh token rotation, Redis-b
  
 ## Stats
  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=fabriciocls2001&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=c9a84c&icon_color=c9a84c&text_color=c9d1d9)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fabriciocls2001&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=c9a84c&text_color=c9d1d9)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=fabriciocc1&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=c9a84c&icon_color=c9a84c&text_color=c9d1d9)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fabriciocc&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=c9a84c&text_color=c9d1d9)
  
 ---
  
