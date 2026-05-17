@@ -1,0 +1,79 @@
+<svg width="100%" viewBox="0 0 680 200" role="img" xmlns="http://www.w3.org/2000/svg">
+  <title>GitHub profile banner — Carlos Fabrício, Full-Stack Engineer</title>
+  <desc>Banner épico estilo Skyrim e Senhor dos Anéis com montanhas, névoa e runas Elder Futhark</desc>
+
+  <style>
+    .name { font-family: Georgia, serif; font-size: 28px; font-weight: 700; fill: #c9a84c; letter-spacing: 3px; }
+    .title { font-family: Georgia, serif; font-size: 12px; font-weight: 400; fill: #a89060; letter-spacing: 4px; }
+    .stack { font-family: Georgia, serif; font-size: 11px; fill: #7a8c6a; letter-spacing: 1.5px; }
+    .rune { font-family: Georgia, serif; font-size: 10px; fill: #c9a84c; opacity: 0.35; letter-spacing: 4px; }
+    .gold { fill: #c9a84c; }
+    .gold-dim { fill: #c9a84c; opacity: 0.5; }
+  </style>
+
+  <rect width="680" height="200" fill="#06090f" rx="4"/>
+
+  <circle cx="60" cy="22" r="0.8" fill="#c9a84c" opacity="0.6"/>
+  <circle cx="120" cy="14" r="0.6" fill="#ffffff" opacity="0.4"/>
+  <circle cx="200" cy="28" r="0.7" fill="#ffffff" opacity="0.35"/>
+  <circle cx="310" cy="10" r="1" fill="#c9a84c" opacity="0.5"/>
+  <circle cx="390" cy="18" r="0.6" fill="#ffffff" opacity="0.3"/>
+  <circle cx="480" cy="8" r="0.8" fill="#ffffff" opacity="0.45"/>
+  <circle cx="560" cy="24" r="0.7" fill="#c9a84c" opacity="0.4"/>
+  <circle cx="630" cy="12" r="0.6" fill="#ffffff" opacity="0.35"/>
+  <circle cx="90" cy="38" r="0.5" fill="#ffffff" opacity="0.25"/>
+  <circle cx="440" cy="32" r="0.5" fill="#ffffff" opacity="0.3"/>
+  <circle cx="620" cy="36" r="0.6" fill="#c9a84c" opacity="0.3"/>
+  <circle cx="160" cy="44" r="0.4" fill="#ffffff" opacity="0.2"/>
+  <circle cx="520" cy="42" r="0.5" fill="#ffffff" opacity="0.25"/>
+
+  <circle cx="580" cy="30" r="16" fill="#1a1f2e"/>
+  <circle cx="575" cy="26" r="15" fill="#d4c89a" opacity="0.12"/>
+  <circle cx="580" cy="30" r="13" fill="#c9b87a" opacity="0.08"/>
+
+  <polygon points="0,130 40,70 80,110 130,55 180,95 230,50 280,90 330,48 380,85 430,45 480,88 530,52 580,90 630,50 680,85 680,200 0,200" fill="#0c1420"/>
+  <polygon points="0,145 50,95 100,125 160,80 220,115 290,72 350,108 420,68 480,105 540,75 600,108 650,82 680,100 680,200 0,200" fill="#101a28"/>
+  <polygon points="0,160 60,120 120,148 190,105 250,138 320,98 380,132 450,100 510,130 570,108 640,135 680,118 680,200 0,200" fill="#141f30"/>
+
+  <rect x="0" y="148" width="680" height="30" fill="#0d1520" opacity="0.7"/>
+  <rect x="0" y="158" width="680" height="20" fill="#0d1a2a" opacity="0.5"/>
+  <rect x="0" y="170" width="680" height="30" fill="#08111a"/>
+
+  <rect x="8" y="8" width="664" height="184" fill="none" stroke="#c9a84c" stroke-width="1" rx="2"/>
+  <rect x="12" y="12" width="656" height="176" fill="none" stroke="#c9a84c" stroke-width="0.35" opacity="0.4" rx="1"/>
+
+  <polygon points="8,8 18,8 8,18" class="gold"/>
+  <polygon points="672,8 662,8 672,18" class="gold"/>
+  <polygon points="8,192 18,192 8,182" class="gold"/>
+  <polygon points="672,192 662,192 672,182" class="gold"/>
+
+  <rect x="6" y="14" width="2" height="8" class="gold-dim"/>
+  <rect x="3" y="17" width="8" height="2" class="gold-dim"/>
+  <rect x="672" y="14" width="2" height="8" class="gold-dim"/>
+  <rect x="669" y="17" width="8" height="2" class="gold-dim"/>
+  <rect x="6" y="178" width="2" height="8" class="gold-dim"/>
+  <rect x="3" y="181" width="8" height="2" class="gold-dim"/>
+  <rect x="672" y="178" width="2" height="8" class="gold-dim"/>
+  <rect x="669" y="181" width="8" height="2" class="gold-dim"/>
+
+  <polygon points="340,6 346,13 340,11 334,13" class="gold-dim"/>
+  <polygon points="340,194 346,187 340,189 334,187" class="gold-dim"/>
+  <rect x="8" y="96" width="5" height="1.5" class="gold-dim"/>
+  <rect x="667" y="96" width="5" height="1.5" class="gold-dim"/>
+
+  <text x="340" y="26" class="rune" text-anchor="middle">ᚠᚨᛒᚱᛁᚲᛁᛟ · ᚠᛟᚱᚷᛖᛞ ᛁᚾ ᚲᛟᛞᛖ</text>
+  <text x="340" y="188" class="rune" text-anchor="middle">ᚠᚨᛒᚱᛁᚲᛁᛟ · ᚠᛟᚱᚷᛖᛞ ᛁᚾ ᚲᛟᛞᛖ</text>
+
+  <line x1="80" y1="106" x2="240" y2="106" stroke="#c9a84c" stroke-width="0.5" opacity="0.5"/>
+  <line x1="440" y1="106" x2="600" y2="106" stroke="#c9a84c" stroke-width="0.5" opacity="0.5"/>
+  <polygon points="240,106 246,102 252,106 246,110" class="gold-dim"/>
+  <polygon points="440,106 434,102 428,106 434,110" class="gold-dim"/>
+  <circle cx="80" cy="106" r="2" class="gold-dim"/>
+  <circle cx="600" cy="106" r="2" class="gold-dim"/>
+
+  <text x="340" y="115" class="name" text-anchor="middle">CARLOS FABRÍCIO</text>
+  <line x1="200" y1="122" x2="480" y2="122" stroke="#c9a84c" stroke-width="0.4" opacity="0.35"/>
+  <text x="340" y="140" class="title" text-anchor="middle">FULL-STACK ENGINEER</text>
+  <text x="340" y="160" class="stack" text-anchor="middle">Java · Spring Boot · React · Distributed Systems</text>
+
+</svg>
